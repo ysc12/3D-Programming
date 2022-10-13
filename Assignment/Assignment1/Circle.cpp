@@ -56,7 +56,7 @@ int main(void)
         }
 
         glEnd();
-
+        
         glfwSwapBuffers(window);
         glfwPollEvents();
     }
