@@ -1,0 +1,15 @@
+﻿  MagicCircle.cpp
+D:\Users\isr50\3D-Programming\Assignment2\Assignment2\MagicCircle.cpp(107,63): warning C4244: '=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+D:\Users\isr50\3D-Programming\Assignment2\Assignment2\MagicCircle.cpp(108,62): warning C4244: '=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+D:\Users\isr50\3D-Programming\Assignment2\Assignment2\MagicCircle.cpp(174,18): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+D:\Users\isr50\3D-Programming\Assignment2\Assignment2\MagicCircle.cpp(178,18): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+D:\Users\isr50\3D-Programming\Assignment2\Assignment2\MagicCircle.cpp(284,13): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Assignment2.vcxproj -> D:\Users\isr50\3D-Programming\Assignment2\x64\Debug\Assignment2.exe
