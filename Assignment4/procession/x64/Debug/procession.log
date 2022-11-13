@@ -1,0 +1,4 @@
+﻿  Procession.cpp
+D:\Users\isr50\source\repos\Assignment4\procession\Procession.cpp(19,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+D:\Users\isr50\source\repos\Assignment4\procession\Procession.cpp(48,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  procession.vcxproj -> D:\Users\isr50\source\repos\Assignment4\x64\Debug\procession.exe
